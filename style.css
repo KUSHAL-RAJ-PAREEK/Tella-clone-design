@@ -281,7 +281,7 @@ color: #222222;
     height: 100vh;
     top: 4vw;
     transform: rotate(1deg) scale(1.1);
-      background-image: url('/p-2/assets/sky.png');
+      background-image: url('/assets/sky.png');
         background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
