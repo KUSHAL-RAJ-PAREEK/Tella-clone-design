@@ -1594,4 +1594,9 @@ flex-direction: column;
     padding-right: 2vw;
 }
 
+nav .auth_btn button{
+    border-radius: 6px;
+    text-align: center;
+    padding: 1vw;
+}
 }
