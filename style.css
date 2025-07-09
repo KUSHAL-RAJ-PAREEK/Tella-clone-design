@@ -1572,8 +1572,17 @@ flex-direction: column;
     background: linear-gradient(#27154C,#181127);
 }
 .lasti{
-    padding-left: 1vw;
-    padding-right: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.mid_div{
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.up_div{
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 
 }
