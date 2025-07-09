@@ -60,7 +60,7 @@ nav .mid-sec h6{
 
 nav .auth_btn{
     display: flex;
-    gap:1vw;
+    gap:1.5vw;
     justify-content: center;
     align-items: center;
 }
