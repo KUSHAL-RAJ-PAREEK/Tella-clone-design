@@ -93,7 +93,7 @@ padding-right: 0.6vw;
 
 .nav_open{
     z-index: 20;
-    top: 9vw;
+    top: 8vw;
     position: absolute;
     display: none;
 width: 100%;
@@ -1599,4 +1599,14 @@ nav .auth_btn button{
     text-align: center;
     padding: 1vw;
 }
+
+.cont-4 .btn_cover button{
+    padding: 3vw;
+}
+
+.cont-5 .btn_cover button{
+    padding: 2vw;
+}
+
+
 }
