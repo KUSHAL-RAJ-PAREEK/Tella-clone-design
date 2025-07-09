@@ -93,7 +93,7 @@ padding-right: 0.6vw;
 
 .nav_open{
     z-index: 20;
-    top: 8vw;
+    top: 10vw;
     position: absolute;
     display: none;
 width: 100%;
@@ -1593,6 +1593,7 @@ flex-direction: column;
     padding-left: 2vw;
     padding-right: 2vw;
 }
+
 
 nav .auth_btn button{
     border-radius: 6px;
