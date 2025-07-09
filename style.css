@@ -1556,6 +1556,14 @@ flex-direction: column;
     display: none;
 }
 
+.row-1.oo{
+    display: none;
+}
+
+.tweet-card{
+    min-width: 60vw;
+}
+
 .tweets{
     gap: 5vw;
 }
