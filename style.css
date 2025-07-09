@@ -83,6 +83,7 @@ padding-left: 0.6vw;
 padding-right: 0.6vw;
     border: none;
     border-radius: 7px;
+    color: #000;
 }
 
 .auth_btn i{
